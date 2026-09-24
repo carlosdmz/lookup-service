@@ -12,7 +12,7 @@ make localenv-start
 ```
 
 The API's schema can be found in the `swagger` directory. It really queries for
-IP addresses, given a domain name, nothing fancy, really.
+IP addresses, given a domain name.
 
 ## Kubernetes setup
 To deploy it in any Kubernetes cluster, you need to build the image:
