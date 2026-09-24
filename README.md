@@ -1,9 +1,5 @@
 # Lookup Service
-This is a simple IP lookup service built in Go. I did this for an interview
-process some time ago, and folks asked me to make it private once I got the feedback. 
-However, I spoke with their CEO, and he turned out to be a cynical, and pretentious 
-little prick. I don't work with pricks, and also, I don't work for free, and my time is valuable.
-So I'm making this code available as a small sample of my work as a software developer.
+This is a simple IP lookup service built in Go.
 It contains the code for the service itself, local development environment, and a
 Helm setup for deploying in any Kubernetes cluster.
 
